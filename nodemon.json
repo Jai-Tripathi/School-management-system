@@ -1,0 +1,10 @@
+{
+  "env": {
+    "DB_USER": "jai",
+    "DB_PASS": "EZUDZnlv38DIwvmm",
+    "DB_NAME": "school-management",
+    "JWT_KEY": "supersecret_dont_share",
+    "CLOUDINARY_API_KEY": "dz4mykusd",
+    "CLOUDINARY_API_SECRET": "pGNsieTitsaauEPw1SNq5k-iilI"
+  }
+}
